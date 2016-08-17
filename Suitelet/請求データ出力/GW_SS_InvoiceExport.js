@@ -31,7 +31,7 @@ function invoiceExport(request, response){
 	            invoiceExportSelect.addSelectOption(result[i].getId(), result[i].getValue('name'));
 	              }
 	        }
-// test git
+// test git 2
 	        response.writePage(invoiceExportForm);
 	      }
       // post
