@@ -31,7 +31,7 @@ function invoiceExport(request, response){
 	            invoiceExportSelect.addSelectOption(result[i].getId(), result[i].getValue('name'));
 	              }
 	        }
-
+// test git
 	        response.writePage(invoiceExportForm);
 	      }
       // post
@@ -57,13 +57,13 @@ function invoiceExport(request, response){
         	}
         txt_file.setFolder(folderId);
         var txtFileId = nlapiSubmitFile(txt_file);*/
-        
+
         //url = "https://system.sandbox.netsuite.com/core/media/media.nl?id="+txtFileId+"&c=4141596&h=1ab83ed5a9a761230347&_xd=T&_xt=.txt";
         //nlapiSetRedirectURL('mediaitem', txtFileId, 'view');
         //nlapiSetRedirectURL("EXTERNAL", file_url);
-        
+
         //
-        
+
         /*var file = nlapiLoadFile(txtFileId);
         //var url = request.getHeader("Host");
         url = file.getURL();
@@ -119,7 +119,7 @@ function getList(param){
 	  		filters[i] = new nlobjSearchFilter('custentity_gw_payeename', 'entity', 'is', param['contactname_record_field'] );
 	  		i++;
 	  	}
-	
+
 	  if (i == 0) return null;
 
 	  var result =   nlapiSearchRecord('transaction', 'customsearch_gw_payment_list', filters,col);
