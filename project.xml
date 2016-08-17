@@ -1,0 +1,236 @@
+<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
+  <folder name="Globalway" bundleable="false">
+    <folder name="ClientSciript" bundleable="false">
+      <folder name="?????" bundleable="false">
+        <file name="GW_CS_SalesImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????" bundleable="false">
+        <file name="GW_CS_SalesImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_CS_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_CS_PaymentFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_CS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_CS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_CS_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_CS_PaymentFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_CS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_CS_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_CS_PaymentFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_CS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_CS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_CS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="????????" bundleable="false">
+        <file name="GW_CS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="????????" bundleable="false">
+        <file name="GW_CS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????????}?b?`???O???" bundleable="false">
+        <file name="GW_CS_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????f?[?^?o??" bundleable="false">
+        <file name="GW_CS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????f?[?^?o??" bundleable="false">
+        <file name="GW_CS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?Z???[????\??" bundleable="false">
+        <file name="GW_CS_Residentcard_app.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?Z???[????\??" bundleable="false">
+        <file name="GW_CS_Residentcard_app.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?_??X?V?????" bundleable="false">
+        <file name="GW_CS_ContractUpdateList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?_??X?V?????" bundleable="false">
+        <file name="GW_CS_PaymentApplydemo.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_CS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+    </folder>
+    <folder name="Common" bundleable="false">
+      <file name="GW_Lib_Common.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+    </folder>
+    <folder name="Logo" bundleable="false">
+      <file name="????.png" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+    </folder>
+    <folder name="ScheduledScript" bundleable="false">
+      <folder name="??????????" bundleable="false">
+        <file name="GW_SS_PaymentAcquisitiondScheduled.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+    </folder>
+    <folder name="Suitelet" bundleable="false">
+      <folder name="?????" bundleable="false">
+        <file name="AL_DisposalConfirmation.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_DisposalRequest.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_GMOSettlement.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_Kashidaore" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentApply_WT.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentList_WT.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_ResidentCardIssuanceApplication" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_dispnone.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="barcode.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="duc.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????" bundleable="false">
+        <file name="AL_SalesImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="GW_SS_SalesImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????" bundleable="false">
+        <file name="AL_DisposalConfirmation.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_DisposalRequest.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_GMOSettlement.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_Kashidaore" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentApply_WT.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_PaymentList_WT.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_ResidentCardIssuanceApplication" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AL_dispnone.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="barcode.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="duc.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????" bundleable="false">
+        <file name="AL_SalesImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="GW_SS_SalesImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="????????" bundleable="false">
+        <file name="GW_SS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="????????" bundleable="false">
+        <file name="GW_SS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="????????" bundleable="false">
+        <file name="GW_SS_PaymentList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????????}?b?`???O???" bundleable="false">
+        <file name="GW_SS_PaymentApply.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????f?[?^?o??" bundleable="false">
+        <file name="GW_SS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????f?[?^?o??" bundleable="false">
+        <file name="GW_SS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????f?[?^?o??" bundleable="false">
+        <file name="GW_SS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????f?[?^?o??" bundleable="false">
+        <file name="GW_SS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?????f?[?^?o??" bundleable="false">
+        <file name="GW_SS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?Z???[????\???????" bundleable="false">
+        <file name="GW_SS_Residentcard_app_print.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="gw_ss_residentcard_application.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?Z???[????\???????" bundleable="false">
+        <file name="GW_SS_Residentcard_app_print.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="gw_ss_residentcard_application.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?_??X?V?????" bundleable="false">
+        <file name="GW_SS_Contract_update_print_all.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="GW_SS_PaymentApplydemo.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="contract_xml_pdf.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="?_??X?V?????" bundleable="false">
+        <file name="GW_SS_ContractUpdateList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="bkup" bundleable="false">
+        <file name="AL_RoutePatrolImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+        <file name="AL_RoutePatrolImportList.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="請求データ出力" bundleable="false">
+        <file name="GW_SS_InvoiceExport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????" bundleable="false">
+        <file name="GW_SS_PaymentImport.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+    </folder>
+    <folder name="UserEvents" bundleable="false">
+      <folder name="?Z???[????\??" bundleable="false">
+        <file name="GW_SS_Residentcard_app.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="????" bundleable="false">
+        <file name="GW_SS_CustomerPayment.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="???????w?b?_?[" bundleable="false">
+        <file name="GW_SS_PaymentAcquisitionH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+      <folder name="??????????" bundleable="false">
+        <file name="GW_SS_PaymentAcquisitionD.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      </folder>
+    </folder>
+    <folder name="????CSVTEMP?t?H???_" bundleable="false">
+      <file name="2016618223736.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="2016618223824.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="2016618223935.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="2016618224137.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="2016618224721.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="2016620195519.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="2016620195856.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="201662020056.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+      <file name="2016620221616.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_shiftJis"/>
+    </folder>
+  </folder>
+</project>

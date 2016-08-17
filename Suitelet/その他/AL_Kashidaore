@@ -1,0 +1,52 @@
+/*
+ * ********************************************************************************
+ * Script: AL_Kasidaore.js
+ * Description: 貸倒償却一覧画面
+ * Author: tsuyoshi.yokozawa@globlway.co.jp
+ * History:
+ * Ver, Date
+ * 0.1, 2016/06/03
+ * ********************************************************************************
+ */
+function main(request, response)
+{
+    var paymentListForm = nlapiCreateForm("貸倒償却対象一覧");
+
+    var writeoffButton  = paymentListForm.addSubmitButton("貸倒償却処理");
+    var searchButton  = paymentListForm.addButton("searchButton", "検索");
+    var resetButton  = paymentListForm.addButton("resetButton", "リセット");
+    
+    var paymentDateFieldSt  = paymentListForm.addField("cancel_date_field_st", "date", "解約日 検索開始日");
+    var paymentDateFieldEd  = paymentListForm.addField("cancel_date_field_ed", "date", "解約日 検索終了日");
+    var paymentNameFieldSt  = paymentListForm.addField("payment_date_field_st", "date", "入金日 検索開始日");
+    var paymentNameFieldEd  = paymentListForm.addField("payment_date_field_ed", "date", "入金日 検索終了");
+    
+    var paymentSubList  = paymentListForm.addSubList("payment_sub_list", "staticlist", "貸倒償却対象一覧");
+    paymentSubList.addField("sub_list_check", "checkbox", "選択");
+    paymentSubList.addField("sub_list_id", "text", "顧客");
+    paymentSubList.addField("sub_list_payment_date", "date", "最終入金日");
+    paymentSubList.addField("sub_list_cancel_date", "date", "解約日");
+    paymentSubList.addField("sub_list_request_remainder", "text", "請求残");
+    paymentSubList.addField("sub_list_pack_status", "text", "荷物有");
+    
+    paymentSubList.setLineItemValue("sub_list_id",               1, "1 顧客太郎");
+    paymentSubList.setLineItemValue("sub_list_payment_date",     1, "2013年5月31日");
+    paymentSubList.setLineItemValue("sub_list_cancel_date",     1, "2016年5月31日");
+    paymentSubList.setLineItemValue("sub_list_request_remainder",   1, "10000");
+    paymentSubList.setLineItemValue("sub_list_pack_status",        1, "はい");
+    
+    paymentSubList.setLineItemValue("sub_list_id",               2, "1 顧客太郎");
+    paymentSubList.setLineItemValue("sub_list_payment_date",     2, "2013年5月31日");
+    paymentSubList.setLineItemValue("sub_list_cancel_date",     2, "2016年5月31日");
+    paymentSubList.setLineItemValue("sub_list_request_remainder",   2, "20000");
+    paymentSubList.setLineItemValue("sub_list_pack_status",        2, "はい");
+    
+    paymentSubList.setLineItemValue("sub_list_id",               3, "1 顧客太郎");
+    paymentSubList.setLineItemValue("sub_list_payment_date",     3, "2013年5月31日");
+    paymentSubList.setLineItemValue("sub_list_cancel_date",     3, "2016年5月31日");
+    paymentSubList.setLineItemValue("sub_list_request_remainder",   3, "30000");
+    paymentSubList.setLineItemValue("sub_list_pack_status",        3, "はい");
+    
+    
+    response.writePage(paymentListForm);
+}

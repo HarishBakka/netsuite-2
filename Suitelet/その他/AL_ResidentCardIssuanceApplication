@@ -1,0 +1,29 @@
+/*
+ * ********************************************************************************
+ * Script: AL_ResidentCardIssuanceApplication.js
+ * Description: 住民票取得申請画面
+ * Author: daisuke.otaka@globlway.co.jp
+ * History:
+ * Ver, Date
+ * 0.1, 2016/06/03
+ * ********************************************************************************
+ */
+function main(request, response)
+{
+    // フォーム
+    var issuanceApplicationForm = nlapiCreateForm("住民票取得申請");
+
+    // ボタン
+    var exportButton  = issuanceApplicationForm.addSubmitButton("出力");
+    var clearButton  = issuanceApplicationForm.addButton("clearButton", "クリア");
+
+    // 出力条件
+    var conditionFieldGroup = issuanceApplicationForm.addFieldGroup("application_condition_field_group", "出力条件");
+
+    var customerField = issuanceApplicationForm.addField("customer_field", "select", "顧客", "customer", "application_condition_field_group");
+    customerField.setBreakType("startcol");
+    var customerNameField = issuanceApplicationForm.addField("customer_name_field", "text", "顧客名", "", "application_condition_field_group");
+    var customerAddresssField = issuanceApplicationForm.addField("customer_address_field", "text", "顧客住所", "", "application_condition_field_group");
+
+    response.writePage(issuanceApplicationForm);
+}

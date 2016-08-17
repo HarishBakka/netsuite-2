@@ -1,0 +1,116 @@
+<?xml version="1.0"?><!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd">
+<pdf>
+  <head>
+    <macrolist>
+      <macro id="nlfooter">
+        <table class="footer" style="width: 100%;"><tr>
+          <td></td>
+          <td align="right"><pagenumber/> of <totalpages/></td>
+        </tr></table>
+      </macro>
+    </macrolist>
+    <style type="text/css">table {
+      font-family: heiseimin, sans-serif;
+      font-size: 9pt;
+      table-layout: fixed;
+      }
+      td {
+      padding: 4px 6px;
+      }
+      table.header td {
+      padding: 0;
+      font-size: 10pt;
+      }
+      table.footer td {
+      padding: 0;
+      font-size: 8pt;
+      }
+      table.itemtable th {
+      padding-bottom: 10px;
+      padding-top: 10px;
+      }
+      table.body td {
+      padding-top: 2px;
+      }
+      td.fixborder {
+      border-left: 0.5;
+      border-right: 0.5;
+      border-bottom: 0.5;
+      }
+      td.fixborderleft {
+      border-left: 0.5;
+      border-bottom: 0.5;
+      }
+      span.title {
+        font-size: 28pt;
+      }
+    </style>
+  </head>
+  <body header="nlheader" header-height="10%" footer="nlfooter" footer-height="20pt" padding="0.5in 0.5in 0.5in 0.5in" size="A4">
+    <table style="width: 100%;"><tr><td align="center"><span class="title">住民票写し等交付請求書</span></td></tr></table>
+    <br />
+    <table style="width: 100%;"><tr><td align="right">${record.trandate}</td></tr></table>
+
+    <table height="350" width="100%">
+      <tr>
+        <td class="fixborderleft" border-top="0.5" colspan="3">必要な方の情報</td>
+        <td border-left="0.5" border-bottom="0.5" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">住所</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">氏名</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">生年月日</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">必要なもの</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">&nbsp;</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">請求する者（法人）</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">住所</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">氏名（法人）</td>
+        <td class="fixborderleft" colspan="6">エリアリンク株式会社</td>
+        <td border-bottom="0.5" border-right="0.5" colspan="1"><img src="https://debugger.sandbox.netsuite.com/core/media/media.nl?id=697&amp;c=4141596&amp;h=f5f5d46dcae65f75d1b2&amp;whence=" style="float: right; width: 50px; height: 50px; margin: 5px;" /></td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">電話番号</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">請求理由</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">郵送請求担当者</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">住所</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="fixborderleft" colspan="3">本人確認</td>
+        <td class="fixborder" colspan="7">&nbsp;</td>
+      </tr></table>
+      <br /><br />
+      <table style="width: 100%;"><tr><td><span>※その他不正の手段によって受付を受けたときは30万円以下に処さられます。</span></td></tr></table>
+      <br/>
+    </body>
+  </pdf>
